@@ -25,4 +25,3 @@ int main()
     printf("O seu telefone é %d\n",ficha.telefone);
     printf("Você tem %d anos\n",ficha.idade);
 }
-testando
